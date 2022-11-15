@@ -1,0 +1,24 @@
+SMAP
+citizenloginactionpage_jsp.java
+JSP
+*S JSP
+*F
++ 0 citizenloginactionpage.jsp
+citizenloginactionpage.jsp
++ 1 connection.jsp
+connection.jsp
+*L
+1,4:52
+5#1,14:55
+18:12
+18,2:69
+19,7:71
+25,4:78
+4#0,11:81
+15,11:93
+25:104
+26:105,6
+27:111
+28,11:113
+38,4:124
+*E

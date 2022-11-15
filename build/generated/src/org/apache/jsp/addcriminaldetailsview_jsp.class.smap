@@ -1,0 +1,24 @@
+SMAP
+addcriminaldetailsview_jsp.java
+JSP
+*S JSP
+*F
++ 0 addcriminaldetailsview.jsp
+addcriminaldetailsview.jsp
++ 1 connection.jsp
+connection.jsp
+*L
+1:52
+5#1,14:53
+18:12
+18,2:67
+19,7:69
+25,4:76
+2#0,37:79
+40,6:118
+45,3:124
+48,8:127,3
+56,3:151
+59,2:155
+60,8:157
+*E
